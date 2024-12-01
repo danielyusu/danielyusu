@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yusuf Daniel Turkoglu
+- 👋 Hi, there
 
 <!---
 danielyusu/danielyusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
